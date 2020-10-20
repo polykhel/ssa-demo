@@ -1,0 +1,10 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.polykhel.ssa.config.CoreProperties,\
+#  io.github.jhipster.config.apidoc.SwaggerAutoConfiguration,\
+#  io.github.jhipster.config.apidoc.SwaggerPluginsAutoConfiguration,\
+#  io.github.jhipster.config.JHipsterProperties,\
+#  io.github.jhipster.security.uaa.UaaAutoConfiguration,\
+#  io.github.jhipster.config.info.JHipsterInfoContributorConfiguration,\
+#  io.github.jhipster.config.metric.JHipsterMetricsEndpointConfiguration,\
+#  io.github.jhipster.config.metric.JHipsterLoggingMetricsExportConfiguration,\
+#  io.github.jhipster.security.ssl.UndertowSSLConfiguration
